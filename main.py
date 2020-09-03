@@ -15,7 +15,7 @@ hijau = (Fore.GREEN + Style.BRIGHT)
 from time import sleep
 def logo():
 	os.system('clear')
-	   x=(biru+'========================================================================')
+	x=(biru+'========================================================================')
 	print(x)
 	print(hijau+'                    Script Python INSTALL EHCP')
 	print(' \nVersi   : 1.0 ')
