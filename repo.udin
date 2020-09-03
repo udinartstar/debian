@@ -1,0 +1,3 @@
+deb http://kebo.vlsm.org/debian/ jessie main contrib non-free
+deb http://kebo.vlsm.org/debian/ jessie-updates main contrib non-free
+deb http://kebo.vlsm.org/debian-security/ jessie/updates main contrib non-free
